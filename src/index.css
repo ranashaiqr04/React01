@@ -1,0 +1,16 @@
+
+.title{
+    font-size: 100px;
+}
+
+.fullName,
+.email,
+.message,
+.phone{
+border-top: none;
+border-left: none;
+border-right: none;
+}
+.footer{
+    gap: 25%;
+}
